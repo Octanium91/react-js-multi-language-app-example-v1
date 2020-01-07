@@ -1,0 +1,33 @@
+
+.LngMenu-lang-menu {
+    position: relative;
+    height: 35px;
+    min-height: 20px;
+    margin-left: auto;
+    text-align: right;
+    padding-top: 5px;
+    padding-bottom: 5px;
+    padding-left: 5px;
+    padding-right: 5px;
+}
+
+.LngMenu-lang-span {
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: calc(10px + 2vmin);
+}
+
+.LngMenu-lang-selector {
+    background-color: #282c34;
+    border-radius: 5%;
+    padding-left: 10px;
+    padding-right: 10px;
+    font-size: calc(10px + 2vmin);
+    color: white;
+}
+
+.LngMenu-lang-option {
+    background-color: #282c34;
+    padding-left: 10px;
+    padding-right: 10px;
+}
