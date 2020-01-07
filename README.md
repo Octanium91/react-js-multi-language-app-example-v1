@@ -3,7 +3,7 @@ Simple example multi language React app
 
 Сapability: automatic browser language detection, language switching, flexibility
 
-[try multi language React app](https://github.com/Octanium91/react-js-multi-language-app-example-v1/build)
+[try multi language React app](https://octanium91.github.io/p/react-js-multi-language-app-example-v1/)
 
 ## Default readme
 
