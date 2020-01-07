@@ -49,6 +49,7 @@ class App extends Component {
       if (Lng.hasOwnProperty(AppState.LngDefault)) {
           if (Lng.hasOwnProperty(AppState.LngCurrent)) {
             AppState.Lng = Object.assign({}, Lng[AppState.LngDefault], Lng[AppState.LngCurrent]);
+            document.documentElement.lang = AppState.LngCurrent;
           } else {console.log("App-lngLoad()", " : '"+AppState.LngCurrent+" (LngCurrent)' not found in Lng.js!")};
       } else {console.log("App-lngLoad()", " : '"+AppState.LngDefault+" (LngDefault)' not found in Lng.js!")};     
   };
