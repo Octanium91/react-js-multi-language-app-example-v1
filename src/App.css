@@ -28,6 +28,24 @@
   color: #61dafb;
 }
 
+.GitHub-link {
+  background: #32363f;
+  padding-top: 5px;
+  padding-bottom: 5px;
+  padding-left: 10px;
+  padding-right: 10px;
+  border-radius: 3px;
+  margin-top: 30px;
+  color: #61dafb;
+  text-decoration: none;
+}
+
+.GitHub-link:hover {
+  background: #61dafb;
+  color: #282c34;
+  text-decoration: none;
+}
+
 @keyframes App-logo-spin {
   from {
     transform: rotate(0deg);

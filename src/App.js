@@ -81,6 +81,13 @@ class App extends Component {
           >
             {AppState.Lng.LinkLearnReact}
           </a>
+          <a
+            className="fa fa-github GitHub-link"
+            href="https://github.com/Octanium91/react-js-multi-language-app-example-v1"
+            rel="noopener noreferrer"
+          >
+            {AppState.Lng.LinkGitHub}
+          </a>
         </header>
       </div>
     );

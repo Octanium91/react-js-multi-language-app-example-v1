@@ -9,13 +9,16 @@ export default {
 en: {
     Language: "Language:",
     Text: ["Edit ",<code key="1">src/App.js</code>," and save to reload."],
-    LinkLearnReact: "Learn React",},    
+    LinkLearnReact: "Learn React",
+    LinkGitHub: " Source code ",},    
 ru: {
     Language: "Язык:",
     Text: ["Отредактируйте ",<code key="1">src/App.js</code>," и сохраните для перезагрузки."],
-    LinkLearnReact: "Учить React",},
+    LinkLearnReact: "Учить React",
+    LinkGitHub: " Исходный код ",},
 ua: {
     Language: "Мова:",
     Text: ["Відредагуйте ",<code key="1">src/App.js</code>," та збережіть для перезавантаження."],
-    LinkLearnReact: "Вчити React",},
+    LinkLearnReact: "Вчити React",
+    LinkGitHub: " Вихідний код ",},
 };
